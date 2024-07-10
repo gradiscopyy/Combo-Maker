@@ -2,8 +2,8 @@
 
 ### How to use?
 
-- Load usernames in **usernames.txt**
-- Load passwords in **passwords.txt**
+- Load usernames in **usernames.txt** (input dir)
+- Load passwords in **passwords.txt** (input dir)
 - Open main.py file to make combos
 
-**Enjoy! combos will save in combos.txt**
+**Enjoy! combos will save in combos.txt** (output dir)
